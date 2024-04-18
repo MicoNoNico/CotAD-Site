@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcot_ad_source=self.webpackChunkcot_ad_source||[]).push([[5810],{2358:e=>{e.exports=JSON.parse('{"label":"facebook","permalink":"/CotAD-Site/blog/tags/facebook","allTagsPath":"/CotAD-Site/blog/tags","count":1,"unlisted":false}')}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcot_ad_source=self.webpackChunkcot_ad_source||[]).push([[9161],{8359:e=>{e.exports=JSON.parse('{"label":"hello","permalink":"/CotAD-Site/blog/tags/hello","allTagsPath":"/CotAD-Site/blog/tags","count":2,"unlisted":false}')}}]);

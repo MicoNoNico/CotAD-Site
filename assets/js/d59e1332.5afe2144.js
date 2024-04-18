@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcot_ad_source=self.webpackChunkcot_ad_source||[]).push([[391],{8045:e=>{e.exports=JSON.parse('{"permalink":"/CotAD-Site/blog/tags/facebook","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcot_ad_source=self.webpackChunkcot_ad_source||[]).push([[7117],{2186:s=>{s.exports=JSON.parse('{"label":"docusaurus","permalink":"/CotAD-Site/blog/tags/docusaurus","allTagsPath":"/CotAD-Site/blog/tags","count":4,"unlisted":false}')}}]);
